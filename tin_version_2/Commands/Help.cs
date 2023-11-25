@@ -15,7 +15,7 @@ namespace tin_version_2.Commands
         public override string Execute(string[] args)
         {
 
-            string h_util = "welocome to the tin os help tool the only command is the help gui launch is coming soon new command is file command";
+            string h_util = "welcome to the tin os help tool the only command is the help gui launch is coming soon new command is file command";
             return h_util;
         }
     }
