@@ -28,7 +28,7 @@ namespace tin_version_2
 
 
             response = this.commandManger.ProcessInput(Console.ReadLine());
-
+            Console.Write(">");
 
             Console.WriteLine(response);
         }
